@@ -1,4 +1,4 @@
-# Project Name: Kids Day care
+# Project Name: Kids Day Care
 # Live Project Link: 
 * https://kids-day-care-7aeee.web.app/
 # Client Code Link: 
